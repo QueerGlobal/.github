@@ -1,6 +1,11 @@
+🏳️‍🌈 **Coming soon**
+
 # Queer Global
 
-Queer Global is building a place to share trusted resources for the least represented people in the LGBTQIA+ community.
+A place to share trusted information, resources, events, and businesses — built first for people of color, disabled people, fat people, and anyone pushed to the edges of the LGBTQIA+ community.
 
-- **Intended app:** [qg-frontend-v2](https://github.com/QueerGlobal/qg-frontend-v2)
-- **Docs:** [qg-docs](https://github.com/QueerGlobal/qg-docs)
+The public site and app are on the way. Until then, these links are the best place to follow the project.
+
+- [info@queerglobal.com](mailto:info@queerglobal.com)
+- [Project docs](https://github.com/QueerGlobal/qg-docs)
+- [Intended app (work in progress)](https://github.com/QueerGlobal/qg-frontend-v2)
